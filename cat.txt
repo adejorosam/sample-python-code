@@ -1,1 +1,3 @@
-
+NAME                         DISPLAY NAME
+advanced-cluster-management Advanced Cluster Management for Kubernetes DEFAULT CHANNEL
+release-2.5
